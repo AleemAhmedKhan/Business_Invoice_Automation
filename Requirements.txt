@@ -1,0 +1,8 @@
+langchain
+pytesseract
+Pillow
+pypdfium2
+streamlit
+python-dotenv
+pandas
+requests
