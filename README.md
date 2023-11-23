@@ -10,8 +10,8 @@ LLM will response with images not just text for enhnaced experience
 5. Make.com (No code alternative)
 
 *****
-![](Images\Capture1.PNG.jpg)
-![](Images\Capture.PNG)
+![](Images/Capture1.PNG.jpg)
+![](Images/Capture.PNG)
 
 ## 🌐 How to run?
 ### STEPS:
